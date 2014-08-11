@@ -9,11 +9,11 @@
     <name>StarEverest</name>
 
     <description>
-        StarEverest te permet de rencontrer la star de tes rêves en soutenant une association.
+        StarEverest te permet de rencontrer la star de tes rÃªves en soutenant une association.
     </description>
 
     <author href="http://stareverest.com/dev" email="contact@stareverest.com">
-        L'équipe StarEverest
+        L'Ã©quipe StarEverest
     </author>
 
     <!--
@@ -111,5 +111,5 @@
         <access origin="http://stareverest.com/dev.com" subdomains="true" />  - same as above, but including subdomains, such as http://build.phonegap.com/
         <access origin="http://stareverest.com/dev" browserOnly="true" /> - only allows http://phonegap.com to be opened by the child browser.
     -->
-<content src="http://stareverest.com/dev" />
+<content src="index.html" />
 </widget>
